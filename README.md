@@ -9,7 +9,6 @@
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-yellowgreen)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)](CONTRIBUTING.md)
 
 ## 📖 Table of Contents
 - [Features](#-features)
